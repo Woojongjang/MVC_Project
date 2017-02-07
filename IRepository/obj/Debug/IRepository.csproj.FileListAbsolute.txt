@@ -1,0 +1,14 @@
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\IRepository\obj\Debug\136IRepository.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\IRepository\obj\Debug\136IRepository.pdb

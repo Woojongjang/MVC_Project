@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    var id = ViewBag.id;
+}
+
+<h2>Prerequisite</h2>
+<div id="divInsertPrerequisite">
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Prerequisite Course ID</th>
+                <th>Postrequisite Course ID</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel">
+            <tr>
+                <td><input data-bind="textInput: prereq_id" /></td>
+                <td><input data-bind="textInput: postreq_id" /></td>
+                <td><div data-bind="template: { name: 'action-template', data: $data}"></div></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/html" id="action-template">
+    <button data-bind="InsertPrerequisite: $data">Create</button>
+</script>
+<!---->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var prerequisiteViewModelObj = new PrerequisiteViewModel();
+        prerequisiteViewModelObj.InsertInitialize();
+    });
+</script>
+<!---->

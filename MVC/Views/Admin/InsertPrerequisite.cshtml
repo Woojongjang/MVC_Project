@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "InsertPrerequisite";
+    var id = ViewBag.id;
+}
+@Html.Partial("Insert")
+<h2>Course List</h2>
+
+<div id="divInsertPrereqList">
+    <table>
+        <thead>
+            <tr>
+                <th>Course Id</th>
+                <th>Title</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel">
+            <tr>
+                <td data-bind="text: courseid"></td>
+                <td data-bind="text: title"></td>
+                <td data-bind="text: description"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var prereqListViewModelObj = new PrerequisiteViewModel();
+        prereqListViewModelObj.Load();
+    });
+</script>
+
+<!--
+<script type="text/javascript">
+    $(document).ready(function () {
+        var prereqListViewModelObj = new PrerequisiteViewModel();
+        prereqListViewModelObj.InsertInitialize();
+    });
+</script>
+<!---->

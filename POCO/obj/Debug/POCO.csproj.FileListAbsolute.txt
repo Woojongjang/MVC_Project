@@ -1,0 +1,9 @@
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\POCO\bin\Debug\POCO.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\POCO\bin\Debug\POCO.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\POCO\obj\Debug\POCO.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\POCO\obj\Debug\POCO.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\POCO\bin\Debug\POCO.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\POCO\bin\Debug\POCO.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\POCO\obj\Debug\POCO.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\POCO\obj\Debug\POCO.pdb

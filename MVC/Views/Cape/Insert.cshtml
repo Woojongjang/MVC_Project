@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Insert";
+    var id = ViewBag.Id;
+    var course = ViewBag.Class;
+}
+
+<h2>Submit a Cape!</h2>
+<h3>Submit a Cape for your courses: </h3>
+<div id="divSubmitCape">
+    <table>
+        <tr>
+            <td>Student ID</td>
+            <td><input data-bind="value: stud_id" /></td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td><input data-bind="value: instr_id" /></td>
+        </tr>
+        <tr>
+            <td>Course</td>
+            <td><input data-bind="value: sched_id" /></td>
+        </tr>
+
+        <tr>
+            <td>Rating</td>
+            <td><input data-bind="value: rating" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button data-bind="click: add">Submit Cape</button></td>
+        </tr>
+    </table>
+
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var capeViewModelObj = new CapeViewModel();
+        capeViewModelObj.Initialize();
+    });
+</script>

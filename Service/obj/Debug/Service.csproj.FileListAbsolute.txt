@@ -1,0 +1,32 @@
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\136Service.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\136Service.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Ninject.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\POCO.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\POCO.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\bin\Debug\Ninject.xml
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\obj\Debug\136Service.dll
+C:\Users\ichu_000\Documents\Visual Studio 2013\Projects\Solution136\Service\obj\Debug\136Service.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\136Service.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\136Service.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Ninject.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\POCO.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\POCO.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\bin\Debug\Ninject.xml
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\obj\Debug\136Service.dll
+C:\Users\Woojong\Documents\CSE 136 Summer2 2016\Solution136\Service\obj\Debug\136Service.pdb

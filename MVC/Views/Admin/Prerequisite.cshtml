@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Prerequisite";
+    var id = ViewBag.id;
+}
+<a href="/Admin/InsertPrerequisite?id=@id">Create New Prerequisite</a>
+<h2>Prerequisite</h2>
+<div id="divEditPrerequisite">
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Prerequisite Course ID</th>
+                <th>Prerequisite Course title</th>
+                <th>Postrequisite Course ID</th>
+                <th>Postrequiste Course title</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel">
+            <tr>
+                <td><input data-bind="textInput: prereq_id" /></td>
+                <td><input data-bind="textInput: prereq_title" /></td>
+                <td><input data-bind="textInput: postreq_id" /></td>
+                <td><input data-bind="textInput: postreq_title" /></td>
+                <td><div data-bind="template: { name: 'action-template', data: $data}"></div></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/html" id="action-template">
+    <button data-bind="UpdatePrerequisite: $data">Update</button>
+    <button data-bind="DeletePrerequisite: $data">Delete</button>
+</script>
+<!---->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var prerequisiteViewModelObj = new PrerequisiteViewModel();
+        prerequisiteViewModelObj.Initialize();
+    });
+</script>
+<!---->

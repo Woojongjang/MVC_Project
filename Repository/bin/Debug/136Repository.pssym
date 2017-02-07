@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="731" PostSharpLinesOfCode="0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[136Repository]Repository.ApplicationExceptionHandlerAspect">
+    <Instance Declaration="#2=M:[136Repository]Repository.AuthorizeRepository::AuthenticateFailedNoStoredProcedure(System.String, System.String, ref System.Collections.Generic.List{System.String})" Id="c6b571bfe5afb9c7">
+      <Target>
+        <JoinPoint Description="#3=Wrapped by advice(s) OnException" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[136Repository]Repository.ApplicationExceptionHandlerAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>
